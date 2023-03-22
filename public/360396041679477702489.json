@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "58860805789",
+    "project_id": "arradev-ba990",
+    "storage_bucket": "arradev-ba990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58860805789:android:2302ad12c832e533b87e74",
+        "android_client_info": {
+          "package_name": "com.araadev.cara_cek_bansos_pakehp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOcsuJLG1U6Nq7z01TJe6mdWvy32LyUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58860805789:android:00c1169a8cfa88b5b87e74",
+        "android_client_info": {
+          "package_name": "com.araadev.cara_daftar_sopeepay_paylater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOcsuJLG1U6Nq7z01TJe6mdWvy32LyUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58860805789:android:317632b23e9d183ab87e74",
+        "android_client_info": {
+          "package_name": "com.araadev.cara_pinjam_uang_di_dana_tanpa_ktp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOcsuJLG1U6Nq7z01TJe6mdWvy32LyUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58860805789:android:304e1bc18aaccb2bb87e74",
+        "android_client_info": {
+          "package_name": "com.araadev.cara_pinjam_uang_online_cepat_cair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOcsuJLG1U6Nq7z01TJe6mdWvy32LyUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58860805789:android:9ea92ccd32778174b87e74",
+        "android_client_info": {
+          "package_name": "com.araadev.pinjol_aman_ojk_cepat_cair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOcsuJLG1U6Nq7z01TJe6mdWvy32LyUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58860805789:android:3b8f87a878b3a22eb87e74",
+        "android_client_info": {
+          "package_name": "com.araadev.scguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOcsuJLG1U6Nq7z01TJe6mdWvy32LyUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58860805789-r5tdpnsgdqdsahafeu2nudn72e0i7b8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
